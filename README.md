@@ -68,3 +68,5 @@ We can do analysis by implementing a trial store method to fix the causes of low
 For reference you can refer my work [here](https://app.powerbi.com/groups/me/reports/29bb29cd-6809-4954-bb0b-9f40b0c7f946/ReportSection)
 
 
+
+![Task3_Dashboard](https://user-images.githubusercontent.com/40695609/142065941-18eaa2bd-45ad-4cb7-aaa8-544fe1097e80.png)
